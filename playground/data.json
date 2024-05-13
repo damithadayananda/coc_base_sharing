@@ -1,0 +1,121 @@
+{
+  "home_base": {
+    "war": {
+      "14": [
+        {
+          "id": 1,
+          "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH14%3AWB%3AAAAAVwAAAAE97nQVZTmvMtPtNFNSrrPF",
+          "image_link": "https://clash-of-clans-wiki.com/pics/th14_plans/war/thumb/th14_war_135.jpg"
+        },
+        {
+          "id": 2,
+          "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH14%3AWB%3AAAAAVwAAAAE97lsTDXr6LdZm1x0XepZm",
+          "image_link": "https://clash-of-clans-wiki.com/pics/th14_plans/war/thumb/th14_war_134.jpg"
+        }
+      ],
+      "13": [
+
+      ],
+      "12": [
+
+      ],
+      "11": [
+
+      ],
+      "10": [
+
+      ],
+      "9": [
+
+      ],
+      "8": [
+
+      ],
+      "7": [
+
+      ]
+    },
+    "trophy": {
+      "14": [
+        {
+          "id": 1,
+          "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH14%3AHV%3AAAAAVwAAAAE66JOcpWNiCRyRwQqY0BRC",
+          "image_link":"https://clash-of-clans-wiki.com/pics/th14_plans/defence/thumb/th14_defence_31.jpg"
+        },
+        {
+          "id": 2,
+          "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH14%3AHV%3AAAAAVwAAAAE65zc3aR5vXP4hp0O9IDaQ",
+          "image_link":"https://clash-of-clans-wiki.com/pics/th14_plans/defence/thumb/th14_defence_30.jpg"
+        }
+      ],
+      "13": [
+
+      ],
+      "12": [
+
+      ],
+      "11": [
+
+      ],
+      "10": [
+
+      ],
+      "9": [
+
+      ],
+      "8": [
+
+      ],
+      "7": [
+
+      ]
+    },
+    "farming": {
+      "14": [
+        {
+          "id": 2,
+          "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH14%3AHV%3AAAAAVwAAAAE93x2xJ-ps0zuMlqq-XJhT",
+          "image_link":"https://clash-of-clans-wiki.com/pics/th14_plans/farm/thumb/th14_farm_28.jpg"
+        },
+        {
+          "id": 2,
+          "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH14%3AHV%3AAAAAVwAAAAE93hn0dqma9iuWuV-V33do",
+          "image_link":"https://clash-of-clans-wiki.com/pics/th14_plans/farm/thumb/th14_farm_27.jpg"
+        }
+      ],
+      "13": [
+
+      ],
+      "12": [
+
+      ],
+      "11": [
+
+      ],
+      "10": [
+
+      ],
+      "9": [
+
+      ],
+      "8": [
+
+      ],
+      "7": [
+
+      ]
+    }
+  },
+  "builder_base": {
+
+  },
+  "funny_layout": {
+
+  },
+  "news": [
+    {
+      "headline": "",
+      "image_url": ""
+    }
+  ]
+}

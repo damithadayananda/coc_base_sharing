@@ -12,6 +12,10 @@ target 'coc_base_sharing' do
     :hermes_enabled => false
   )
 
+  pod 'RNFS', :path => '../node_modules/react-native-fs'
+
+  pod 'RNVectorIcons', :path => '../node_modules/react-native-vector-icons'
+
   target 'coc_base_sharingTests' do
     inherit! :complete
     # Pods for testing
